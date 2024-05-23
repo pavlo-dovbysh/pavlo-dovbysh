@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
-
 - 🔭 Focusing on JavaScript Techs.😎
 - 🌱 Trying to become an expert in Frontend development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
